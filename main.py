@@ -2,7 +2,7 @@
 
 
 def add(x: int, y: int) -> int:
-    pass
+    return x + y
 
 
 if __name__ == "__main__":
